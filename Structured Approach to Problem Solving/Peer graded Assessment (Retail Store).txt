@@ -1,0 +1,33 @@
+Problem Statement :  To enhance customer satisfaction in our retail store, we aim to reduce customer complaints/issues related to service quality by 20% within the next six months. 	
+
+The SMART framework:
+
+Specific: Enhance customer satisfaction in the retail store by improving the quality of customer service interactions and addressing 	  common points identified through feedback and complaints.
+
+Measurable: Reduce the number of customer complaints related to service quality by 20% within the next six months.
+
+Achievable: Implement targeted staff training programs focused on customer service skills and optimize staffing levels.
+
+Relevant: Improving customer satisfaction aligns with the store's goals of providing exceptional service and fostering customer 	  loyalty,ultimately contributing to business growth and success.
+
+Time-bound: Achieve the 20% reduction in customer complaints within the next six months, allowing for timely assessment of the 		    effectiveness of implemented strategies and necessary adjustments as needed.
+
+Define the Problem:
+
+Identify specific points based on customer feedback, complaints, and satisfaction surveys.
+Analyze trends in customer complaints to pinpoint recurring issues.
+
+Gather Data:
+
+Customer feedback and complaints data from various channels (surveys, online reviews, in-store feedback forms).
+Sales data to identify any correlations between customer satisfaction and business performance.
+Employee feedback and performance evaluations to assess staff engagement and effectiveness in customer service.
+
+
+Identify Potential Causes:
+
+Inadequate staff training or lack of customer service skills.
+Insufficient staffing leading to long wait times and poor assistance.
+Inventory management issues causing product unavailability.
+Store layout and ambiance negatively impacting the customer experience.
+Technical issues with checkout systems causing delays.

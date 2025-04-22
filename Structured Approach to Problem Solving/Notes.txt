@@ -1,0 +1,54 @@
+To sum it up, various stages of data science project can broadly be classified into following. 
+Stage 1, defining and re-framing the problem. 
+Stage 2, data analysis and processing. 
+Stage 3, data modeling. 
+Stage 4, model evaluation.
+Stage 5, model enhancement and 
+Stage 6, model deployment in production.
+
+Data engineers. In simple terms, data engineers build systems like data pipelines, data lake, data warehouses, which collect, clean, manage, and convert raw data into usable information. This information is used to visualize, interpret, and build machine learning models. 
+
+but before data engineers gather and collect data, someone formulates the organizational data strategy, defines their data management standards and principles on which the organization operates. This very important person is a data architect. A data engineer works in compliance with the standards laid out by the data architect. While both these roles deal primarily with data, there is a significant difference in responsibilities. However, both data architect and data engineer work together to build the organization's data system.
+
+Now that organization's data system is built, it is time to analyze it and find solutions to various different business problems which we have. Who do think does this? Data analyst. A data analyst analyzes data sets to find ways to solve business problems and also define business problems and communicate this information to management and other stakeholders. As a data analyst, you should be able to turn raw data into actionable insights to make business decisions. You would also need programming skills with languages such as Python or R to clean and analyze data. Additionally, visualization tools, such as Power BI or Tableau are needed to present the findings in a very compelling visual manner. 
+
+Often, real-time problems are complex, and require complex analysis. Who do you think does this? If it's our data scientist, you are correct. A data scientist often deals with the unknown by using more advanced data techniques like machine learning and deep learning algorithms or designed predictive models. Predictive models can handle both structured and unstructured data. And as a data scientist, you should be proficient in leveraging machine learning and deep learning to create models, make predictions based on past data. These skills are in addition to the skills and competencies of a data analyst. 
+
+Once data analysts have determined the data that is worthy of exploring, and data scientists have designed the machine-learning models, it is time for machine learning engineers to bring them to life. A machine learning engineer is a specialized role that focuses on designing, building, maintaining machine learning system in live production systems. They work very closely with data scientists and data engineers to develop and deploy machine learning models and algorithms. ML engineers require in-depth knowledge of programming tools, databases, and various mathematical concepts, such as, calculus, statistics, and probability. Other than the roles we have discussed above, there are a lot of other roles that are extremely important for any data science project. Some of the roles include statistics, business analysis, software engineering, data analytics management, and data product management.
+
+So structured thinking helps you to create a structured framework to solve a complex problem. The methodology for problem solving using a structured thinking approach involves dividing a large problem into smaller ones. These smaller problems allow you to solve the big problem faster and more efficiently. So structured thinking allows you to be innovative and smart. It allows you to use your logical and critical thinking ability and break down a problem, a very complex problem to smaller problem which are much easier to solve.
+
+structured thinking is a framework that allows you to solve a problem. The key to this framework is breaking down a bigger problem into smaller manageable problems.
+
+To summarize, using a SMART framework to define and create a specific measurable achievable, relevant, and time-bound problem statement makes it easier to develop an effective action plan to solve the problem.
+
+WEEk - II
+
+A PSW provides a comprehensive overview that guides the planning and execution, as well as helps develop effective strategies to achieve the desired outcome.
+
+A problem statement worksheet, or PSW is a document that helps you articulate the problem that needs to be solved. In a PSW, you would use various sections or headers that include background, desired outcome, scope, constraints, stakeholders, and resources.
+
+This method of organizing a problem into list of mutually exclusive and collectively exhaustive areas is known as MECE. Organizing a problem and breaking it down using a MECE tree helps in solving the problem strategically. It is powerful principle in problem solving that ensures you consider all possible options without any overlap. This principle is essential because it helps us avoid confusion and guarantees that you account for all relevant information. Now you can take the first part and further break it down.
+
+Another way to remember MECE is don't miss anything and don't mix anything.
+
+MECE is a problem solving principle that guarantees we consider all possible options without any overlap
+
+the Issue Tree is one of the most used frameworks in consulting and problem-solving. You would use an issue tree to organize all the information you have and divide them into all possible issues and sub-issues. Similar to a tree, the problem and the information around it is organized into a system of branches and sub-branches, which are mutually exclusive and collectively exhaustive. Such hierarchical approach allows you to explore the various dimensions of the problem, analyze the interrelationships, and identify the underlying causes
+
+Tip 1, the direction of the flow. One of the important things to consider while creating an issue tree is a direction in which a tree flows. As a best practice, it is important to go from left to right and logically break down the primary question to smallest sub-issues. As most of us are conditioned to read from left to right, it becomes easy for us to process the information presented with a left-to-right flow of information. Additionally, such an organization is easy to navigate in a digital environment. 
+
+Tip number 2, logical organization of information. While organizing the information from left to right, you should further break down the question in a logical and structured manner. This helps ensure that the tree provides a comprehensive analysis of the problem. For example, if you see this issue tree in which the key question is broken down into issues and further another three levels of sub-issues are moving from left to right and each issue or some issue is logically addressing the key question. A logical organization and arrangement of issues also helps strategize a solution approach objectively and holistically. 
+
+Tip number 3, issue tree should be should not describe a sequential process and issue tree should not solely describe a sequential process. Instead, it should show alternative solutions or approaches that are individually capable of solving different parts of the primary problem. For example, if you compare the two issue tree shown on the same primary question, how can I travel to Australia from India? Note that the issue tree on the left shows the various ways in which you can reach Australia. Whereas the issue tree on the right lists a sequence of process which you should follow to reach Australia, which is independent of the way in which you want to go to Australia. We should not construct an issue tree like the one shown in the left. It is important to look out for exclusive ways in which primary problem can be solved, rather than the process which is to be followed to solve the primary problem. 
+
+Tip number 4, formulating sub-issues. The sub-issues in the issue tree should be formulated as questions, ideas or action item rather than just titles. This encourages a more detailed and specific analysis of each sub-issue. By formulating them as questions or action items, it becomes easier to identify the specific information or action needed to address each sub-issues. 
+
+User adoption refers to the extent to which users embrace and incorporate the solutions into their workflows or decision making processes. It's about ensuring that the solution becomes an integral part of their work and delivers tangible value to them. One of the key reasons why user adoption is vital is because it directly impacts the success of the project. If users don't adopt and use the solution, all our efforts in developing the model would have been in vain. Therefore, it is essential to understand the factors that influence adoption. 
+
+WEEK - III 
+Empathy is the ability to recognize and understand the other person's emotions, behavior, or perspective on a situation. It has created the world's greatest products and is also the lacuna behind many failed ones. Empathy allows researchers to build deeper understanding of the user by putting aside personal assumptions and biases and focusing on the actual needs. Empathy helps the team build better solutions that drive expectations and increase usage and adoption.
+
+https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it
+
+https://uxplanet.org/empathy-map-user-persona-and-user-flow-5299ada245c8?gi=4ee5e1f6f0e3
